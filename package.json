@@ -1,0 +1,20 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "a.sowl",
+  "license": "ISC",
+  "description": "Mi primer Hola Mundo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-sowl/Practica1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a-sowl/Practica1/issues"
+  },
+  "homepage": "https://github.com/a-sowl/Practica1#readme"
+}
